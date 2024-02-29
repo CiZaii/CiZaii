@@ -2,26 +2,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=System.out.println("Hello,World!");)](https://git.io/typing-svg)
 
 
 </div>
 
-<img align='right' src="https://github.com/eryajf/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="450" height="390" />
+<img align='right' src="https://zang-1307996497.cos.ap-beijing.myqcloud.com/undefineddark_mode.webp?raw=true" width="450" height="390" />
 
-有时候想象自己并不是一个IT男，尽管身处IT工作之中，但是更多时候却又喜欢以一种跳出去回望这个群体的样子，常常别有一番滋味。
-
-曾经在高中的时候，酷爱读书，读《论语》的时候看到这样一则故事：司马牛忧曰："人皆有兄弟，我独亡！"子夏曰："商闻之矣：死生有命，富贵在天。君子敬而无失，与人恭而有礼，四海之内，皆兄弟也。君子何患乎无兄弟也？"（司马牛担忧地说："别人都有兄弟，只有我没有。"子夏说："我听说过：`死生有命，富贵在天`，君子只要严肃认真地对待所做的事情，不出过失，对人恭敬而合乎于礼的规定，那`天下人就都是自家兄弟`。君子何愁没有兄弟呢？"）
-
-而我，在这样一个伟大的时代中，与司马牛是一样的，在没看到四海皆兄弟这个概念之前也与司马牛一样有过类似忧虑。但是彼时就是这么一句话，瞬间点醒一个人，让我的心境进入到另一种天地。
-
-讲个小故事，大概简单想表达几个简单意思：
-
-- 1，古代朱子有云：`天不生仲尼，万古如长夜`，虽然现在距离孔子时代过去两千多年，但是对圣人的敬仰，感恩之心情，永不更易。这是对自己的要求，信而好古，永远秉持发扬优良传统文化，不亦快哉！
-- 2，人的痛苦很大部分来源于`迷`（愚痴），而真心谛听的往往阅经猛醒，以致破迷开悟，离苦得乐。希望自己认真做一个传承者，学到的，内化的，分享的，与人有益，幸甚！
-- 3，我也是一个喜欢交友的人，对待任何一个熟悉的陌生的，都“恭而有礼”，也希望借此能够结交更多的朋友。
+前世大厂架构、上市公司ceo，被小人陷害，重生为23年应届生，点个star➕关注，看我如何逆风翻盘。
 
 ### 🤗 欢迎来访
 
@@ -48,7 +36,7 @@
 <div align="center">
 
 
-[![Eliauk's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ZangJuxy&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+[![Eliauk's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ZangJuxy&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ZangJuxy&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=ZangJuxy&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=ZangJuxy&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
 <!-- [![profile](https://github-profile-trophy.vercel.app/?username=ZangJuxy&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=ZangJuxy&theme=algolia&column=8) -->
 
@@ -63,8 +51,12 @@
 <details open>
 <summary>点击展开 ...</summary>
 
-|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
-| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
+
+|                        Project                         |                            Stars                              |               Remark              |
+|:------------------------------------------------------:| :----------------------------------------------------------: |  :------------------------------: |
+| [Stream-Query](https://gitee.com/dromara/stream-query) | ![](https://gitee.com/dromara/stream-query/badge/star.svg) |  允许完全摆脱Mapper的mybatis-plus体验！
+
+封装stream和lambda操作进行数据返回处理 |
 
 ### 📝 博客最近更新
 
@@ -72,6 +64,22 @@
 <summary>点击展开 ...</summary>
 
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
+
+<!-- BLOG-POST-LIST:START -->
+- 🐻 [同时解决缓存穿透、缓存雪崩和缓存击穿](https://zverify.cn/posts/c41f22e7.html)
+
+- 🎃 [Ioc/Aop框架如何集成FolkMQ](https://zverify.cn/posts/9cac72b9.html)
+
+- 🚀 [使用Forest对接谷歌Gemini](https://zverify.cn/posts/c3461094.html)
+
+- 🌋 [手写幂等性组件库](https://zverify.cn/posts/5858758b.html)
+
+- 🌁 [序列化中的循环引用](https://zverify.cn/posts/7f7e7cfd.html)
+<!-- BLOG-POST-LIST:END -->
+
+更多内容直接点击：[https://zverify.cn](https://zverify.cn)
+
+</details>
 
 <!--
 **ZangJuxy/ZangJuxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

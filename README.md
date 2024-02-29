@@ -52,11 +52,12 @@
 <summary>点击展开 ...</summary>
 
 
-|                        Project                         |                            Stars                              |               Remark              |
-|:------------------------------------------------------:| :----------------------------------------------------------: |  :------------------------------: |
-| [Stream-Query](https://gitee.com/dromara/stream-query) | ![](https://gitee.com/dromara/stream-query/badge/star.svg) |  允许完全摆脱Mapper的mybatis-plus体验！
+|                        Project                         |                           Stars                            |               Remark              |
+|:------------------------------------------------------:|:----------------------------------------------------------:|  :------------------------------: |
+| [Stream-Query](https://gitee.com/dromara/stream-query) | ![](https://gitee.com/dromara/stream-query/badge/star.svg) |  允许完全摆脱Mapper的mybatis-plus体验！封装stream和lambda操作进行数据返回处理 
+|   [Zverify](https://zverify.cn)    |                         ![](xxxx)                          |  我的个人博客
 
-封装stream和lambda操作进行数据返回处理 |
+
 
 ### 📝 博客最近更新
 

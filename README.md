@@ -14,10 +14,10 @@
 ### 🤗 欢迎来访
 
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=ZangJuxy.ZangJuxy)](https://visitor-badge.laobi.icu/badge?page_id=ZangJuxy.ZangJuxy)
+[![](https://visitor-badge.laobi.icu/badge?page_id=CiZaii.CiZaii)](https://visitor-badge.laobi.icu/badge?page_id=CiZaii.CiZaii)
 [![Mail Badge](https://img.shields.io/badge/-zang@dromara.org-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zang@dromara.org)](mailto:zang@dromara.org)
-[![](https://img.shields.io/github/stars/ZangJuxy?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ZangJuxy&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![](https://img.shields.io/github/stars/dromara/stream-query?color=fefb7b)](https://github.com/dromara/stream-query)
-[![](https://img.shields.io/github/followers/ZangJuxy?color=27da6b&logo=Handshake)](https://github.com/ZangJuxy?tab=followers)
+[![](https://img.shields.io/github/stars/CiZaii?color=fefb7b&logo=Undertale)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=CiZaii&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![](https://img.shields.io/github/stars/dromara/stream-query?color=fefb7b)](https://github.com/dromara/stream-query)
+[![](https://img.shields.io/github/followers/CiZaii?color=27da6b&logo=Handshake)](https://github.com/CiZaii?tab=followers)
 [![](https://img.shields.io/badge/Eliauk的博客-d7b1bf?logo=Blogger)](https://zverify.cn)
 [![](https://img.shields.io/badge/Stream-Query-c780fa?logo=Awesome-Lists)](https://github.com/dromara/stream-query#readme)
 
@@ -36,11 +36,11 @@
 <div align="center">
 
 
-[![Eliauk's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ZangJuxy&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=ZangJuxy&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=ZangJuxy&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=ZangJuxy&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+[![Eliauk's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=CiZaii&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=CiZaii&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=CiZaii&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=CiZaii&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 
-<!-- [![profile](https://github-profile-trophy.vercel.app/?username=ZangJuxy&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=ZangJuxy&theme=algolia&column=8) -->
+<!-- [![profile](https://github-profile-trophy.vercel.app/?username=CiZaii&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=CiZaii&theme=algolia&column=8) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZangJuxy&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CiZaii&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -83,7 +83,7 @@
 </details>
 
 <!--
-**ZangJuxy/ZangJuxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CiZaii/CiZaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
